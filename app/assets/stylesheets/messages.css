@@ -156,6 +156,10 @@ text-decoration: none;
  margin-left: 15px;
 }
 
+.hidden {
+  display: none;
+}
+
 .form-image {
   font-size: 12px;
   background-color: lightblue;
@@ -164,8 +168,4 @@ text-decoration: none;
   width: 60px;
   margin: 5px 10px;
   text-align: center;
-}
-
-.hidden {
-  display: none;
 }
